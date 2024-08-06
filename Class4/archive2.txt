@@ -1,0 +1,4 @@
+lorem_text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+with open("test.txt", "w") as file:
+    file.write(lorem_text)
