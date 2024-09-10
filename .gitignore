@@ -1,2 +1,3 @@
 *.ipynb
 test1.py
+!class15.ipynb
