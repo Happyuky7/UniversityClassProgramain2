@@ -4,3 +4,4 @@
 !class[2-9][0-9]*.ipynb
 !class1[6-9]-*.ipynb
 !class[2-9][0-9]-*.ipynb
+!control2.ipynb
